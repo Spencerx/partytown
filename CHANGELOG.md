@@ -1,5 +1,11 @@
 # @qwik.dev/partytown
 
+## 0.13.3
+
+### Patch Changes
+
+- Add `logForwardedEvents` config flag to enable debug logging for forwarded events and triggers (by [@mws19901118](https://github.com/mws19901118) in [#704](https://github.com/QwikDev/partytown/pull/704))
+
 ## 0.13.2
 
 ### Patch Changes
